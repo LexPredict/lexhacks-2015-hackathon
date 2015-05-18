@@ -5,7 +5,8 @@
 
 ```sh
 $ md5sum lex_hack_sample.tar.gz
-70c9faa4ec82f04273b9228bfb5aa531  lex_hack_sample.tar.gz```
+70c9faa4ec82f04273b9228bfb5aa531  lex_hack_sample.tar.gz
+```
 
 ## Software Licensing
 In order to be eligible for the challenge prize, your software must be contributed back to Github under either an Aapche 2.0 or GPL 3.0 license.
