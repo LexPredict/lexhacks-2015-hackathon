@@ -1,4 +1,5 @@
-[logo]: http://lexpredict.com/wp-content/uploads/2014/08/lexpredict_logo_horizontal_1.png "LexPredict"
+![LexPredict](http://lexpredict.com/wp-content/uploads/2014/08/lexpredict_logo_horizontal_1.png "LexPredict")
+
 # LexPredict LexHacks 2015 Challenge
 ## Challenge for LexHacks Hackathon on June 6-7, 2015
 
@@ -8,6 +9,17 @@
 * identify the parties to an agreement
 * identify effective date segment and date
 * identify termination clause segment(s) and date(s)
+
+  Take, for example, the following text:
+> THIS GUARANTEE AGREEMENT dated as of September 30, 2008 (this "Guarantee") is entered into by
+> FREIGHTCAR AMERICA, INC., a Delaware corporation (the "Guarantor"), in favor of BANK OF AMERICA,
+> N.A., a national banking association, as the administrative agent (in such capacity, the
+> "Administrative Agent") for certain financial institutions (each a "Lender", and collectively the
+> "Lenders") from time to time party to the Credit Agreement (defined below).
+
+ The "correct" answers are:
+ * *Parties*: FREIGHTCAR AMERICA, INC.; BANK OF AMERICA,N.A.
+ * *Effective date*: September 30, 2008
 
 ## Challenge Data
 The data for this challenge can be found at this link:
