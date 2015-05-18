@@ -1,7 +1,6 @@
 ![LexPredict](http://lexpredict.com/wp-content/uploads/2014/08/lexpredict_logo_horizontal_1.png "LexPredict")
-[Visit LexPredict.](http://lexpredict.com/)
 
-# LexPredict LexHacks 2015 Challenge
+# [LexPredict](http://lexpredict.com/) LexHacks 2015 Challenge
 ## Challenge for LexHacks Hackathon on June 6-7, 2015
 
 ## Challenge Task
